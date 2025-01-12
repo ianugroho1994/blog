@@ -1,7 +1,7 @@
 ---
 title: "Kenapa harus belajar Algoritma dan struktur data?"
 publishDate: "12 January 2025"
-description: "mari cerita tentang algoritma dan struktur data"
+description: "pengantar cerita tentang apa itu algoritma dan struktur data dan kenapa blogpost ini harus mengajarkannya"
 tags: ["tutorial", "Algoritma dan Struktur Data"]
 ---
 
